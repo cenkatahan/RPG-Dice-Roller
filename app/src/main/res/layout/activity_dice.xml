@@ -7,21 +7,22 @@
     tools:context=".DiceActivity"
     android:orientation="vertical">
 
+
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/surfaceView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAlignment="center"
         android:hint="Number"
         android:textSize="25dp"
         android:layout_gravity="center"
-        android:layout_marginTop="200dp"/>
+        android:layout_marginTop="150dp"/>
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/rollButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/rollString"
         android:layout_gravity="center"
-        android:layout_marginTop="25dp"/>
+        android:layout_marginTop="40dp" />
 </LinearLayout>
