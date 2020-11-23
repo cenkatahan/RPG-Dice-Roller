@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RPG Dice Roller</string>
+
+    <string-array name="dice">
+        <item>D4 (4-sided)</item>
+        <item>D6 (6-sided)</item>
+        <item>D8 (8-sided)</item>
+        <item>D10 (10-sided)</item>
+        <item>D12 (12-sided)</item>
+        <item>D20 (20-sided)</item>
+        <item>Percentile Dice</item>
+    </string-array>
+
+    <string name="chooseString">CHOOSE</string>
+    <string name="rollString">ROLL</string>
+</resources>
